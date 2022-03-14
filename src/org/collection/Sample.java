@@ -14,6 +14,7 @@ public class Sample {
 		li.add(30);
 		li.add(40);
 		li.add(50);
+		li.add(60);
 		System.out.println(li);
 		
 		//no.of value in list 
